@@ -1,5 +1,5 @@
 {
-    "name": "WatheqAlshowaiter/laravel-paginateroute",
+    "name": "watheqalshowaiter/laravel-paginateroute",
     "description": "Laravel outer extension to easily use laravel's paginator without the query string",
     "keywords": [
         "spatie",
